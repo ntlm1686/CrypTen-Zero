@@ -1,0 +1,3 @@
+[submodule "CrypTen"]
+	path = CrypTen
+	url = https://github.com/ntlm1686/CrypTen
